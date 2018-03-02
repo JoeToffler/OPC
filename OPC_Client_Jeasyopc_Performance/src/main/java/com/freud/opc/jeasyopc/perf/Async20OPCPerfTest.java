@@ -1,4 +1,4 @@
-package com.freud.opc.jeasyopc.perf;
+package main.java.com.freud.opc.jeasyopc.perf;
 
 import java.util.Date;
 
@@ -9,7 +9,7 @@ import javafish.clients.opc.component.OpcItem;
 
 import org.apache.log4j.Logger;
 
-import com.freud.opc.jeasyopc.perf.listener.JeasyOPCListener;
+import main.java.com.freud.opc.jeasyopc.perf.listener.JeasyOPCListener;
 
 public class Async20OPCPerfTest {
 

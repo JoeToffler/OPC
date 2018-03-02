@@ -1,6 +1,7 @@
-package com.freud.opc.jeasyopc;
+package main.java.com.freud.opc.jeasyopc;
 
-import com.freud.opc.jeasyopc.listener.OpcAsynchListener;
+//import com.freud.opc.jeasyopc.listener.OpcAsynchListener;
+import main.java.com.freud.opc.jeasyopc.listener.OpcAsynchListener;
 
 import javafish.clients.opc.JEasyOpc;
 import javafish.clients.opc.JOpc;

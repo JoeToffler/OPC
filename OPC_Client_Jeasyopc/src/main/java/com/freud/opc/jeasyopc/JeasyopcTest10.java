@@ -1,4 +1,4 @@
-package com.freud.opc.jeasyopc;
+package main.java.com.freud.opc.jeasyopc;
 
 import javafish.clients.opc.JEasyOpc;
 import javafish.clients.opc.JOpc;

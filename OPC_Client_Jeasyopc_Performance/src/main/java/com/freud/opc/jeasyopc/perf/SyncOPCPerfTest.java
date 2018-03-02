@@ -1,4 +1,4 @@
-package com.freud.opc.jeasyopc.perf;
+package main.java.com.freud.opc.jeasyopc.perf;
 
 import java.util.Date;
 
