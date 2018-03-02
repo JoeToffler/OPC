@@ -26,13 +26,13 @@
 		<dependency>
 			<groupId>org.openscada.opc.dcom</groupId>
 			<artifactId>org.openscada.opc.dcom</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
-			<groupId>org.openscada.utgard</groupId>
+			<groupId>org.openscada.opc.lib</groupId>
 			<artifactId>org.openscada.opc.lib</artifactId>
-			<version>1.1.0.v20130529</version>
+			<version>1.1.0</version>
 		</dependency>
 	</dependencies>
 

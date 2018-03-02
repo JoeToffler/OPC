@@ -1,4 +1,4 @@
-package com.freud.opc.jeasyopc.listener;
+package main.java.com.freud.opc.jeasyopc.listener;
 
 import javafish.clients.opc.JCustomOpc;
 import javafish.clients.opc.asynch.AsynchEvent;
